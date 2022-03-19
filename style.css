@@ -1,0 +1,12 @@
+table{
+  font-size: 15px;
+  font-family: monospace;
+  font-weight: bold;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 4%;
+}
