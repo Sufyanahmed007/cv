@@ -1,0 +1,4 @@
+have a read in mdn website about 
+bold vs strong tag 
+and emphasis vs strong tag
+and emphasis and italic tag
